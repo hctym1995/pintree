@@ -1,0 +1,2472 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1688367973209,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1612421414343,
+        "title": "工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1702524164907,
+            "title": "book",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1638494993302,
+                "title": "数字图书馆。搜索书籍。免费下载书籍",
+                "icon": "https://logo.clearbit.com/zh.1lib.pl",
+                "url": "https://zh.1lib.pl/"
+              },
+              {
+                "type": "link",
+                "addDate": 1647920261952,
+                "title": "数字图书馆。搜索书籍。免费下载书籍",
+                "icon": "https://logo.clearbit.com/zh.b-ok.com",
+                "url": "https://zh.b-ok.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700537696694,
+                "title": "Z-Library Project - Electronic library. Download books free",
+                "icon": "https://logo.clearbit.com/z-lib.is",
+                "url": "https://z-lib.is/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524193242,
+            "title": "video",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1637889767155,
+                "title": "H.264 Demo Clips | H264info.com",
+                "icon": "https://logo.clearbit.com/www.h264info.com",
+                "url": "https://www.h264info.com/clips.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1637825384174,
+                "title": "Free File Samples to Download - 185 Types Available",
+                "icon": "https://logo.clearbit.com/filesamples.com",
+                "url": "https://filesamples.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1653146551550,
+                "title": "CHAOSPACE – 蓝光影视 热门美剧 字幕分享 最好用的影视资源站",
+                "icon": "https://logo.clearbit.com/www.chaospace.fun",
+                "url": "https://www.chaospace.fun/"
+              },
+              {
+                "type": "link",
+                "addDate": 1624601323643,
+                "title": "贝贝BiliBili - B站视频下载",
+                "icon": "https://logo.clearbit.com/xbeibeix.com",
+                "url": "https://xbeibeix.com/api/bilibili#"
+              },
+              {
+                "type": "link",
+                "addDate": 1649664610203,
+                "title": "Codecs.com : Download best multimedia tools",
+                "icon": "https://logo.clearbit.com/www.free-codecs.com",
+                "url": "https://www.free-codecs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1673250056930,
+                "title": "最新字幕 - SubHD",
+                "icon": "https://logo.clearbit.com/subhd.tv",
+                "url": "https://subhd.tv/sub/new"
+              },
+              {
+                "type": "link",
+                "addDate": 1684756709486,
+                "title": "MP4Box.js - JavaScript MP4 Reader/Fragmenter",
+                "icon": "https://logo.clearbit.com/gpac.github.io",
+                "url": "https://gpac.github.io/mp4box.js/test/filereader.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1693980729865,
+                "title": "ytbmp3.app Youtube Downloader | Download Youtube Videos in HD",
+                "icon": "https://logo.clearbit.com/ytbmp3.app",
+                "url": "https://ytbmp3.app/convert/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524198239,
+            "title": "game",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1656686676116,
+                "title": "G站APP新版（安卓） – 叽哩叽哩游戏网ACG（G站）",
+                "icon": "https://logo.clearbit.com/www.jiligamefun.com",
+                "url": "https://www.jiligamefun.com/311285.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1662305657220,
+                "title": "激战2星岬岛 - 你的激战2说明书",
+                "icon": "https://logo.clearbit.com/gw2.wishingstarmoye.com",
+                "url": "https://gw2.wishingstarmoye.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1689866493894,
+                "title": "爱3DS",
+                "icon": "https://logo.clearbit.com/i3ds.fun",
+                "url": "https://i3ds.fun/"
+              },
+              {
+                "type": "link",
+                "addDate": 1669605968295,
+                "title": "剑网3 » 魔盒（JX3BOX） - 一站式剑网3资源工具站",
+                "icon": "https://logo.clearbit.com/www.jx3box.com",
+                "url": "https://www.jx3box.com/index/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524216961,
+            "title": "work",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1625815219817,
+                "title": "Text to ASCII Art Generator (TAAG)",
+                "icon": "https://logo.clearbit.com/patorjk.com",
+                "url": "http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20"
+              },
+              {
+                "type": "link",
+                "addDate": 1657504463243,
+                "title": "Dark theme for Notepad++ and 266+ apps — Dracula",
+                "icon": "https://logo.clearbit.com/draculatheme.com",
+                "url": "https://draculatheme.com/notepad-plus-plus"
+              },
+              {
+                "type": "link",
+                "addDate": 1657535643305,
+                "title": "ASCIIFlow.cn：一个好用的在线纯文本流程图绘制工具",
+                "icon": "https://logo.clearbit.com/asciiflow.cn",
+                "url": "http://asciiflow.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1632896914178,
+                "title": "C++ Shell",
+                "icon": "https://logo.clearbit.com/cpp.sh",
+                "url": "http://cpp.sh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1646397862160,
+                "title": "您的项目 - Overleaf, 在线LaTeX编辑器",
+                "icon": "https://logo.clearbit.com/cn.overleaf.com",
+                "url": "https://cn.overleaf.com/project"
+              },
+              {
+                "type": "link",
+                "addDate": 1658807065825,
+                "title": "iLovePDF | Online PDF tools for PDF lovers",
+                "icon": "https://logo.clearbit.com/www.ilovepdf.com",
+                "url": "https://www.ilovepdf.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1672992701865,
+                "title": "Compare the difference between images - Diff Checker",
+                "icon": "https://logo.clearbit.com/www.diffchecker.com",
+                "url": "https://www.diffchecker.com/image-compare/"
+              },
+              {
+                "type": "link",
+                "addDate": 1673248899201,
+                "title": "ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror",
+                "icon": "https://logo.clearbit.com/mirrors.tuna.tsinghua.edu.cn",
+                "url": "https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/"
+              },
+              {
+                "type": "link",
+                "addDate": 1677117717714,
+                "title": "Linux命令搜索引擎 命令，Linux Linux命令搜索引擎 命令详解：最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - Linux 命令搜索引擎",
+                "icon": "https://logo.clearbit.com/wangchujiang.com",
+                "url": "https://wangchujiang.com/linux-command/#!kw=sed"
+              },
+              {
+                "type": "link",
+                "addDate": 1682683573930,
+                "title": "Base64 Image Encoder - Convert any image file or URL online",
+                "icon": "https://logo.clearbit.com/elmah.io",
+                "url": "https://elmah.io/tools/base64-image-encoder/"
+              },
+              {
+                "type": "link",
+                "addDate": 1677117688015,
+                "title": "Quick Reference & Quick Reference",
+                "icon": "https://logo.clearbit.com/bbs.laoleng.vip",
+                "url": "http://bbs.laoleng.vip/reference/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1689055764899,
+                "title": "Diffchecker - Compare text online to find the difference between two text files",
+                "icon": "https://logo.clearbit.com/www.diffchecker.com",
+                "url": "https://www.diffchecker.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1691139995808,
+                "title": "grpc-ecosystem/awesome-grpc: A curated list of useful resources for gRPC",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/grpc-ecosystem/awesome-grpc#tools"
+              },
+              {
+                "type": "link",
+                "addDate": 1691150227869,
+                "title": "bojand/ghz: Simple gRPC benchmarking and load testing tool",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/bojand/ghz"
+              },
+              {
+                "type": "link",
+                "addDate": 1691400986528,
+                "title": "google/go-replayers",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/google/go-replayers"
+              },
+              {
+                "type": "link",
+                "addDate": 1692154625518,
+                "title": "Best XML Parser Online",
+                "icon": "https://logo.clearbit.com/jsonformatter.org",
+                "url": "https://jsonformatter.org/xml-parser"
+              },
+              {
+                "type": "link",
+                "addDate": 1670317036875,
+                "title": "Editor | JSON Crack",
+                "icon": "https://logo.clearbit.com/jsoncrack.com",
+                "url": "https://jsoncrack.com/editor"
+              },
+              {
+                "type": "link",
+                "addDate": 1695622864677,
+                "title": "Pretty Diff - The difference tool",
+                "icon": "https://logo.clearbit.com/prettydiff.com",
+                "url": "https://prettydiff.com/3/"
+              },
+              {
+                "type": "link",
+                "addDate": 1699933113235,
+                "title": "RegExr: Untitled 7n604",
+                "icon": "https://logo.clearbit.com/regexr.com",
+                "url": "https://regexr.com/7n604"
+              },
+              {
+                "type": "link",
+                "addDate": 1700107646537,
+                "title": "Tabby - a terminal for a more modern age",
+                "icon": "https://logo.clearbit.com/tabby.sh",
+                "url": "https://tabby.sh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700709765075,
+                "title": "在线字数统计工具-统计字符字节汉字数字标点符号-计算word文章字数",
+                "icon": "https://logo.clearbit.com/www.eteste.com",
+                "url": "https://www.eteste.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702884553453,
+                "title": "搜索 命令，Linux 搜索 命令详解：最专业的Linux命令大全，命令搜索引擎，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - Linux 命令搜索引擎",
+                "icon": "https://logo.clearbit.com/wangchujiang.com",
+                "url": "https://wangchujiang.com/linux-command/list.html#!kw=sed"
+              },
+              {
+                "type": "link",
+                "addDate": 1702900160724,
+                "title": "使用简单的文字描述画UML图的开源工具。",
+                "icon": "https://logo.clearbit.com/plantuml.com",
+                "url": "https://plantuml.com/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1704281070034,
+                "title": "Heynote",
+                "icon": "https://logo.clearbit.com/heynote.com",
+                "url": "https://heynote.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1704373202922,
+                "title": "math.js | an extensive math library for JavaScript and Node.js",
+                "icon": "https://logo.clearbit.com/mathjs.org",
+                "url": "https://mathjs.org/docs/reference/functions.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1709711292629,
+                "title": "RabbitMQ 教程 - 工作队列 | RabbitMQ 教程 RabbitMQ",
+                "icon": "https://logo.clearbit.com/www.rabbitmq.com",
+                "url": "https://www.rabbitmq.com/tutorials/tutorial-two-python#putting-it-all-together"
+              },
+              {
+                "type": "link",
+                "addDate": 1709781554045,
+                "title": "RabbitMQ Simulator",
+                "icon": "https://logo.clearbit.com/tryrabbitmq.com",
+                "url": "https://tryrabbitmq.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524262289,
+            "title": "chrome",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1661416681385,
+                "title": "Tampermonkey • 首页",
+                "icon": "https://logo.clearbit.com/www.tampermonkey.net",
+                "url": "https://www.tampermonkey.net/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524298412,
+            "title": "music",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1664429484607,
+                "title": "MusicEnc-搜索结果",
+                "icon": "https://logo.clearbit.com/www.musicenc.com",
+                "url": "https://www.musicenc.com/?search=%E6%AD%A2%E6%88%98%E4%B9%8B%E6%AE%87"
+              },
+              {
+                "type": "link",
+                "addDate": 1715054396693,
+                "title": "六音",
+                "icon": "https://logo.clearbit.com/www.sixyin.com",
+                "url": "https://www.sixyin.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1706782510452,
+            "title": "CMakeLists.txt - 工作区 - Visual Studio Code",
+            "icon": "https://logo.clearbit.com/vscode.dev",
+            "url": "https://vscode.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706868149501,
+            "title": "abseil / C++ Quickstart With CMake",
+            "icon": "https://logo.clearbit.com/abseil.io",
+            "url": "https://abseil.io/docs/cpp/quickstart-cmake"
+          },
+          {
+            "type": "link",
+            "addDate": 1709086524334,
+            "title": "Home - Coze",
+            "icon": "https://logo.clearbit.com/www.coze.com",
+            "url": "https://www.coze.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1709088474015,
+            "title": "PhotoMaker",
+            "icon": "https://logo.clearbit.com/photo-maker.github.io",
+            "url": "https://photo-maker.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709104689349,
+            "title": "Excalidraw | Hand-drawn look & feel • Collaborative • Secure",
+            "icon": "https://logo.clearbit.com/excalidraw.com",
+            "url": "https://excalidraw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709106069280,
+            "title": "cppreference.com",
+            "icon": "https://logo.clearbit.com/zh.cppreference.com",
+            "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
+            "addDate": 1709632201057,
+            "title": "Claude",
+            "icon": "https://logo.clearbit.com/claude.ai",
+            "url": "https://claude.ai/chats"
+          },
+          {
+            "type": "link",
+            "addDate": 1711421603889,
+            "title": "Suno AI",
+            "icon": "https://logo.clearbit.com/www.suno.ai",
+            "url": "https://www.suno.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714468049693,
+            "title": "HitPaw 免費線上圖片編輯",
+            "icon": "https://logo.clearbit.com/online.hitpaw.tw",
+            "url": "https://online.hitpaw.tw/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715074530635,
+            "title": "Win10系统_Win10专业版系统下载_雨林木风Win10系统官网",
+            "icon": "https://logo.clearbit.com/www.ylmfeng.com",
+            "url": "http://www.ylmfeng.com/W8W10/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715741807080,
+            "title": "一糖网址导航丨实用的上网导航资源网址导航",
+            "icon": "https://logo.clearbit.com/iitang.com",
+            "url": "https://iitang.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717488935723,
+            "title": "在线中文Unicode编码互换工具 - 全球通用的汉字转码工具 -优工具",
+            "icon": "https://logo.clearbit.com/www.uutils.com",
+            "url": "https://www.uutils.com/enc/zh_cn_unicode.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1677659201950,
+            "title": "JSON Diff - The semantic JSON compare tool",
+            "icon": "https://logo.clearbit.com/www.jsondiff.com",
+            "url": "https://www.jsondiff.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1677140219746,
+            "title": "Wandbox",
+            "icon": "https://logo.clearbit.com/wandbox.org",
+            "url": "https://wandbox.org/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1691032248757,
+        "title": "vvv-ppp-N",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1659448463702,
+            "title": "DuangCloud",
+            "icon": "https://logo.clearbit.com/portal.duangcloud.xyz",
+            "url": "https://portal.duangcloud.xyz/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1689774015309,
+            "title": "DuangCloud 引导页",
+            "icon": "https://logo.clearbit.com/duangweb.com",
+            "url": "https://duangweb.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1694594153901,
+            "title": "大航海",
+            "icon": "https://logo.clearbit.com/dhh.moe",
+            "url": "https://dhh.moe/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1696775950497,
+            "title": "大航海",
+            "icon": "https://logo.clearbit.com/dhh.gay",
+            "url": "https://dhh.gay/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1704280213380,
+            "title": "大航海加速器",
+            "icon": "https://logo.clearbit.com/dhh.app",
+            "url": "https://dhh.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709086216762,
+            "title": "仪表盘 - 白月光",
+            "icon": "https://logo.clearbit.com/www.bygcloud.com",
+            "url": "https://www.bygcloud.com/#/stage/dashboard"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1612421419871,
+        "title": "杂物间",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1702524462222,
+            "title": "other",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1696668648313,
+                "title": "瓜老师の笔记 - @看吃瓜笔记、看大瓜排行、黑料！",
+                "icon": "https://logo.clearbit.com/teachergua.com",
+                "url": "https://teachergua.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1689520440838,
+                "title": "あまえんぼ冬 [ドージンオトメ] | DLsite 同人 - R18",
+                "icon": "https://logo.clearbit.com/www.dlsite.com",
+                "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ01043101.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1704624213106,
+                "title": "KAGURA FAN – 如果看不到最新游戏的补丁请刷新网页",
+                "icon": "https://logo.clearbit.com/kagurafan.com",
+                "url": "https://kagurafan.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1611910579866,
+            "title": "Awesome Wallpapers - wallhaven.cc",
+            "icon": "https://logo.clearbit.com/wallhaven.cc",
+            "url": "https://wallhaven.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1662348175338,
+            "title": "Link, The Legend of Zelda: Breath of the Wild, forest, ruins, The Legend of Zelda | 3557x1889 Wallpaper - wallhaven.cc",
+            "icon": "https://logo.clearbit.com/wallhaven.cc",
+            "url": "https://wallhaven.cc/w/6o8qqx"
+          },
+          {
+            "type": "link",
+            "addDate": 1663726935502,
+            "title": "Catlanguage's Uploads - wallhaven.cc",
+            "icon": "https://logo.clearbit.com/wallhaven.cc",
+            "url": "https://wallhaven.cc/user/Catlanguage/uploads?page=2"
+          },
+          {
+            "type": "link",
+            "addDate": 1663728374234,
+            "title": "Wallpaper Search: #Berserk - wallhaven.cc",
+            "icon": "https://logo.clearbit.com/wallhaven.cc",
+            "url": "https://wallhaven.cc/search?q=id%3A879&page=3"
+          },
+          {
+            "type": "link",
+            "addDate": 1666342105667,
+            "title": "第壱話 使徒、襲来 - 福音战士標題生成器 - Evangelion Title Card Generator - 神奇海螺实验室",
+            "icon": "https://logo.clearbit.com/lab.magiconch.com",
+            "url": "https://lab.magiconch.com/eva-title/"
+          },
+          {
+            "type": "link",
+            "addDate": 1666771356179,
+            "title": "Dota2 版本的钢铁洪流，在投石车大军的铁蹄下瑟瑟发抖吧,游戏,MOBA,好看视频",
+            "icon": "https://logo.clearbit.com/haokan.baidu.com",
+            "url": "https://haokan.baidu.com/v?pd=wisenatural&vid=11586077703979619720"
+          },
+          {
+            "type": "link",
+            "addDate": 1692679039288,
+            "title": "YARN | Search clips by quote",
+            "icon": "https://logo.clearbit.com/yarn.co",
+            "url": "https://yarn.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698219047309,
+            "title": "文本转原神语音",
+            "icon": "https://logo.clearbit.com/genshinvoice.top",
+            "url": "https://genshinvoice.top/v2/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700028809753,
+            "title": "北京市小客车指标调控管理信息系统",
+            "icon": "https://logo.clearbit.com/apply.jtw.beijing.gov.cn",
+            "url": "https://apply.jtw.beijing.gov.cn/apply/app/user/person/manage/C11n2i6P16C20n0n0ni10P1hPn2Ch0hn"
+          },
+          {
+            "type": "link",
+            "addDate": 1709710897693,
+            "title": "申请结果查询",
+            "icon": "https://logo.clearbit.com/zwfw.gaj.beijing.gov.cn",
+            "url": "https://zwfw.gaj.beijing.gov.cn/crjfjj/apply/queryApply"
+          },
+          {
+            "type": "link",
+            "addDate": 1698399977051,
+            "title": "TalkOP海道-海贼王论坛-海贼王社区交流-海贼王中文网-航海王论坛-海贼王全集动画漫画讨论 - Powered by Discuz!",
+            "icon": "https://logo.clearbit.com/bbs.talkop.com",
+            "url": "https://bbs.talkop.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700643669167,
+            "title": "六音软件永久地址发布页，收藏我回家不迷路！",
+            "icon": "https://logo.clearbit.com/6yso.com",
+            "url": "https://6yso.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1703558707320,
+            "title": "NGA玩家社区",
+            "icon": "https://logo.clearbit.com/bbs.nga.cn",
+            "url": "https://bbs.nga.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1704883850615,
+            "title": "云·星穹铁道",
+            "icon": "https://logo.clearbit.com/sr.mihoyo.com",
+            "url": "https://sr.mihoyo.com/cloud/?utm_source=mys#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1710495511972,
+            "title": "小黄人影视App官网",
+            "icon": "https://logo.clearbit.com/xhrys.app",
+            "url": "https://xhrys.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715933101170,
+            "title": "Epic Games 大特卖 | 惠享 PC 平台游戏 - Epic游戏商城",
+            "icon": "https://logo.clearbit.com/store.epicgames.com",
+            "url": "https://store.epicgames.com/zh-CN/sales-and-specials/mega-sale"
+          },
+          {
+            "type": "link",
+            "addDate": 1715947372840,
+            "title": "Clone2048 🕹️ Play on CrazyGames",
+            "icon": "https://logo.clearbit.com/www.crazygames.com",
+            "url": "https://www.crazygames.com/game/clone2048"
+          },
+          {
+            "type": "link",
+            "addDate": 1717333503155,
+            "title": "玲珑学习网-DAF站",
+            "icon": "https://logo.clearbit.com/daf.linglonger.com",
+            "url": "https://daf.linglonger.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720517836207,
+            "title": "作家专区-番茄小说网-番茄小说旗下原创文学平台",
+            "icon": "https://logo.clearbit.com/fanqienovel.com",
+            "url": "https://fanqienovel.com/main/writer/7389567561697856574/publish/7389567567301460542?enter_from=home_empty"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1657513006374,
+        "title": "Xiaoice",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1696907320149,
+            "title": "混响",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1696907299534,
+                "title": "Using Sox (http://sox.sourceforge.net) to remove background noise and/or silence from audio files (individually, or in batch).",
+                "icon": "https://logo.clearbit.com/gist.github.com",
+                "url": "https://gist.github.com/devoncrouse/5534261"
+              },
+              {
+                "type": "link",
+                "addDate": 1696910020182,
+                "title": "haoheliu/voicefixer: General Speech Restoration",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/haoheliu/voicefixer#python-examples"
+              },
+              {
+                "type": "link",
+                "addDate": 1696910022296,
+                "title": "haoheliu.github.io/demopage-voicefixer/#head_2_4",
+                "icon": "https://logo.clearbit.com/haoheliu.github.io",
+                "url": "https://haoheliu.github.io/demopage-voicefixer/#head_2_4"
+              },
+              {
+                "type": "link",
+                "addDate": 1696910117775,
+                "title": "dereverberation · GitHub Topics",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/topics/dereverberation"
+              },
+              {
+                "type": "link",
+                "addDate": 1696922178580,
+                "title": "VoiceFixer Model CheckPoint | Zenodo",
+                "icon": "https://logo.clearbit.com/zenodo.org",
+                "url": "https://zenodo.org/record/5600188#.YxGlfexBxHQ"
+              },
+              {
+                "type": "link",
+                "addDate": 1696922760286,
+                "title": "helianvine/fdndlp: A speech dereverberation algorithm, also called wpe",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/helianvine/fdndlp"
+              },
+              {
+                "type": "link",
+                "addDate": 1696927873417,
+                "title": "Numpy error no attribute complex · Issue #48 · haoheliu/voicefixer",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/haoheliu/voicefixer/issues/48"
+              },
+              {
+                "type": "link",
+                "addDate": 1697009225681,
+                "title": "haoheliu/voicefixer: General Speech Restoration",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/haoheliu/voicefixer"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524510196,
+            "title": "aliyun",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1700122688008,
+                "title": "TTS V2 LOG",
+                "icon": "https://logo.clearbit.com/sls.console.aliyun.com",
+                "url": "https://sls.console.aliyun.com/lognext/project/aicplatform-cluster/logsearch/lyrebird-engine-backend-v2-prod"
+              },
+              {
+                "type": "link",
+                "addDate": 1658480439965,
+                "title": "阿里云控制台首页",
+                "icon": "https://logo.clearbit.com/home.console.aliyun.com",
+                "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService"
+              },
+              {
+                "type": "link",
+                "addDate": 1672972787635,
+                "title": "阿里云-RAM用户登录",
+                "icon": "https://logo.clearbit.com/signin.aliyun.com",
+                "url": "https://signin.aliyun.com/1687436620736046.onaliyun.com/login.htm?callback=https%3A%2F%2Fwww.aliyun.com%2F&accounttraceid=d851df4a6a3642698de6ae90c78275e6hukx&cspNonce=aKFLyekkrM&oauth_callback=https%3A%2F%2Fwww.aliyun.com%2F&spma=a2c44&spmb=11131515#/main"
+              },
+              {
+                "type": "link",
+                "addDate": 1672978745160,
+                "title": "OSS管理控制台",
+                "icon": "https://logo.clearbit.com/oss.console.aliyun.com",
+                "url": "https://oss.console.aliyun.com/bucket/oss-cn-beijing/virtualman-tts/object?path=deploy-data%2F2023-1-4%2FXiaoIceTTSData%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1673403343270,
+                "title": "容器服务控制台",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dfa1.d16c16d0VD3Gt7#/k8s/cluster/list"
+              },
+              {
+                "type": "link",
+                "addDate": 1694421845859,
+                "title": "OSS管理控制台-RTC",
+                "icon": "https://logo.clearbit.com/oss.console.aliyun.com",
+                "url": "https://oss.console.aliyun.com/bucket/oss-cn-beijing/models-manager/object?path=rtc%2Fv3.bak%2Fh3c%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1684810803680,
+                "title": "容器服务控制台-VirtualMans",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dfa1.d16c16d0VD3Gt7#/k8s/cluster/c12b0225ea8f1497ea7b96596df65a274/v2/info/overview?clusterType=ManagedKubernetes&profile=Default&state=running&region=cn-beijing"
+              },
+              {
+                "type": "link",
+                "addDate": 1699424113703,
+                "title": "消息队列 RabbitMQ 版",
+                "icon": "https://logo.clearbit.com/amqp.console.aliyun.com",
+                "url": "https://amqp.console.aliyun.com/region/cn-beijing/instance/amqp-cn-i7m2pjv8700d/vhost/autotraining-int/queue/lyrebird-offline-predict_v2/queue-detail?activeTab=message-query"
+              },
+              {
+                "type": "link",
+                "addDate": 1705580215815,
+                "title": "质检-视频编辑-消息队列",
+                "icon": "https://logo.clearbit.com/amqp.console.aliyun.com",
+                "url": "https://amqp.console.aliyun.com/region/cn-beijing/instance/amqp-cn-zvp2rnw5d00g/vhost/autotraining-prod/queue/video_editor_handle_done_prod/queue-detail?activeTab=message-query"
+              },
+              {
+                "type": "link",
+                "addDate": 1705580410852,
+                "title": "质检-PROD",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dfa1.d16c16d0VD3Gt7#/k8s/cluster/c12b0225ea8f1497ea7b96596df65a274/v2/workload/deployment/detail/autotrainingplatform/media-quality-backend-20240116-6a298e1e/pods?type=deployment&clusterType=ManagedKubernetes&profile=Default&state=running&ns=autotrainingplatform&region=cn-beijing"
+              },
+              {
+                "type": "link",
+                "addDate": 1705904775009,
+                "title": "INT 消息队列 RabbitMQ 版",
+                "icon": "https://logo.clearbit.com/amqp.console.aliyun.com",
+                "url": "https://amqp.console.aliyun.com/region/cn-beijing/instance/amqp-cn-i7m2pjv8700d/vhost/autotraining-int/vhost-queues?spm=5176.12818093_-1363046575.ProductAndResource--ali--widget-product-recent.19.3be916d0eI1t5U"
+              },
+              {
+                "type": "link",
+                "addDate": 1711700116181,
+                "title": "质检aliyun",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dfa1.d16c16d0VD3Gt7#/k8s/cluster/c12b0225ea8f1497ea7b96596df65a274/v2/workload/deployment/list?type=deployment&clusterType=ManagedKubernetes&profile=Default&state=running&ns=autotrainingplatform&region=cn-beijing"
+              },
+              {
+                "type": "link",
+                "addDate": 1719888106999,
+                "title": "neeq",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dre1.2dca16d0GaT6f9#/k8s/cluster/c2accf91675f2463caed562c9a4bf42e2/v2/workload/deployment/list?type=deployment&clusterType=ManagedKubernetes&profile=Default&state=running&region=cn-beijing&ns=finance-announcement"
+              },
+              {
+                "type": "link",
+                "addDate": 1720073526001,
+                "title": "容器服务控制台-新三板webapi",
+                "icon": "https://logo.clearbit.com/cs.console.aliyun.com",
+                "url": "https://cs.console.aliyun.com/?spm=5176.12818093.ProductAndResource--ali--widget-product-recent.dfa1.d16c16d0VD3Gt7#/k8s/cluster/c2accf91675f2463caed562c9a4bf42e2/v2/workload/deployment/list?type=deployment&clusterType=ManagedKubernetes&profile=Default&state=running&region=cn-beijing&ns=finance-announcement"
+              },
+              {
+                "type": "link",
+                "addDate": 1721365623087,
+                "title": "调用config命令创建配置文件_对象存储(OSS)-阿里云帮助中心",
+                "icon": "https://logo.clearbit.com/help.aliyun.com",
+                "url": "https://help.aliyun.com/zh/oss/developer-reference/config?spm=a2c4g.11186623.0.0.70bc4c8cJmnNNC"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524514900,
+            "title": "TAPD",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1684403950803,
+                "title": "虚拟人需求",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/tapd_fe/59277042/story/list?categoryId=1159277042001000903&useScene=storyList&conf_id=1159277042001064000"
+              },
+              {
+                "type": "link",
+                "addDate": 1684403975683,
+                "title": "虚拟人开发wiki",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/59277042/markdown_wikis/show/#1159277042001003683"
+              },
+              {
+                "type": "link",
+                "addDate": 1684475856117,
+                "title": "Wiki-RTC 上线虚拟人统计",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/59277042/markdown_wikis/show/#1159277042001002360"
+              },
+              {
+                "type": "link",
+                "addDate": 1686193773433,
+                "title": "我的项目-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/company/participant_projects?from=left_tree2"
+              },
+              {
+                "type": "link",
+                "addDate": 1686215064599,
+                "title": "Wiki-数字员工产品及交付-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/36383614/markdown_wikis/show/#1136383614001002810"
+              },
+              {
+                "type": "link",
+                "addDate": 1691659470158,
+                "title": "Wiki-0427压测结果-Commercial TTS-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/36812041/markdown_wikis/show/#1136812041001003598"
+              },
+              {
+                "type": "link",
+                "addDate": 1692243945225,
+                "title": "Wiki-资源列表-Commercial TTS-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/36812041/markdown_wikis/show/#1136812041001002615"
+              },
+              {
+                "type": "link",
+                "addDate": 1699515787893,
+                "title": "TTS需求",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/tapd_fe/59277042/story/list?useScene=storyList&groupType=&conf_id=1159277042001064000&categoryId=1159277042001001075&page=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1705657180978,
+                "title": "Wiki-日常开发-talkingface质检-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/43582210/markdown_wikis/show/#1143582210001004434"
+              },
+              {
+                "type": "link",
+                "addDate": 1721986534686,
+                "title": "Wiki-火山引擎资源-BusinessPlatform-TAPD平台",
+                "icon": "https://logo.clearbit.com/www.tapd.cn",
+                "url": "https://www.tapd.cn/59277042/markdown_wikis/show/#1159277042001009225"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1703057347548,
+            "title": "soundtouch",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1703057392615,
+                "title": "SoundStretch Audio Processing Utility",
+                "icon": "https://logo.clearbit.com/www.surina.net",
+                "url": "https://www.surina.net/soundtouch/soundstretch.html#examples"
+              },
+              {
+                "type": "link",
+                "addDate": 1703057404173,
+                "title": "SoundTouch library README",
+                "icon": "https://logo.clearbit.com/www.surina.net",
+                "url": "https://www.surina.net/soundtouch/README.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1703057408939,
+                "title": "SoundTouch Sound Processing Library",
+                "icon": "https://logo.clearbit.com/www.surina.net",
+                "url": "https://www.surina.net/soundtouch/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1705399622408,
+            "title": "Pipeline",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1705399636894,
+                "title": "Pipelines - Runs for ServicePlatform-Media-Quality-backend",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=804&_a=summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1710322931177,
+                "title": "Pipelines - Runs for Voice-lyrebird-factory-data-align-worker-background-py",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=914&_a=summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1716294949756,
+                "title": "Pipelines - Runs for Image-auto-train-job-py",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=779&_a=summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1717470744627,
+                "title": "Pipelines - Run data_enhancement_cpu_int_20240604.1_60e8a55e081da001ab540f24587c42acc771add8",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build/results?buildId=84652&view=results"
+              },
+              {
+                "type": "link",
+                "addDate": 1717482623354,
+                "title": "Pipelines - Runs for AvatarEditor-video-handler-cplus",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=530&_a=summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1684829454363,
+                "title": "Pipelines - Runs for Image-talkingface-rtc-py",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=238"
+              },
+              {
+                "type": "link",
+                "addDate": 1684925776721,
+                "title": "Pipelines - Runs for Image-virtualhuman-v3-rtc-background-py",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=435"
+              },
+              {
+                "type": "link",
+                "addDate": 1719888409034,
+                "title": "Pipelines - Finance_text_generation-financetextgeneration-backgroup-py",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/XiaoiceAic/_build?definitionId=378&_a=summary"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1718692660093,
+            "title": "日志",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718692633035,
+                "title": "autotraining日志服务-阿里云控制台",
+                "icon": "https://logo.clearbit.com/sls.console.aliyun.com",
+                "url": "https://sls.console.aliyun.com/lognext/project/aicplatform-cluster/logsearch/autotraining-queue-service-int"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1719921349592,
+            "title": "Codes",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719921340902,
+                "title": "StockReport - Repos - 个股/行业摘要",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_git/Finance?version=GBdev/Finance/hanzh&path=/private/StockReport"
+              },
+              {
+                "type": "link",
+                "addDate": 1719921367229,
+                "title": "summary - Repos - 新三板摘要",
+                "icon": "https://logo.clearbit.com/dev.azure.com",
+                "url": "https://dev.azure.com/xiaobingai/AICreation/_git/Finance?version=GBdev/Finance/hanzh&path=/private/summary"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1657269875567,
+            "title": "小冰协同OA系统",
+            "icon": "https://logo.clearbit.com/intraoa.xiaobing.ai",
+            "url": "https://intraoa.xiaobing.ai/wui/index.html#/?logintype=1&time=1657269872174&_key=0dw1nm"
+          },
+          {
+            "type": "link",
+            "addDate": 1684465467610,
+            "title": "TRTC实时音视频通话",
+            "icon": "https://logo.clearbit.com/",
+            "url": "file:///D:/13.XiaoiceTalkingFace/TRTC_Web/base-js/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1685089239075,
+            "title": "腾讯云RTC后台",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Ftrtc%2Fmonitor%2Fcall-details%3FcommId%253D1400793299_1361065987_1685086246%2526userId%253D%2526roomNum%253D1361065987%2526roomStr%253Dvh-v3-0-ctertcbiz525hzhq-prod-s%2526createTime%253D1685086246%2526destroyTime%253D1685087874%2526duration%253D1628%2526finished%253Dfalse%2526sdkAppid%253D1400793299%2526callStatus%253D0%2526appName%253DRTCTest"
+          },
+          {
+            "type": "link",
+            "addDate": 1685602108053,
+            "title": "SSML标记语言介绍",
+            "icon": "https://logo.clearbit.com/help.aliyun.com",
+            "url": "https://help.aliyun.com/document_detail/101645.html#sectiondiv-78o-tr3-648"
+          },
+          {
+            "type": "link",
+            "addDate": 1686033466453,
+            "title": "TTS前端模块中的普通话变调规则 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/65091429"
+          },
+          {
+            "type": "link",
+            "addDate": 1698906635651,
+            "title": "数字人自动化训练平台-INT",
+            "icon": "https://logo.clearbit.com/autotrainmanager-int.xiaoice.com",
+            "url": "https://autotrainmanager-int.xiaoice.com/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1702547653591,
+            "title": "数字人自动化训练平台-PROD",
+            "icon": "https://logo.clearbit.com/autotrainmanager.xiaoice.com",
+            "url": "https://autotrainmanager.xiaoice.com/home/project"
+          },
+          {
+            "type": "link",
+            "addDate": 1701659728339,
+            "title": "创建批量听录 - 语音服务 - Azure AI services | Microsoft Learn",
+            "icon": "https://logo.clearbit.com/learn.microsoft.com",
+            "url": "https://learn.microsoft.com/zh-cn/azure/ai-services/speech-service/batch-transcription-create?pivots=rest-api"
+          },
+          {
+            "type": "link",
+            "addDate": 1704770294245,
+            "title": "zhendong TODO",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/36812041/markdown_wikis/show/#1136812041001005822"
+          },
+          {
+            "type": "link",
+            "addDate": 1705480400904,
+            "title": "TalkingfaceMediaquality Codes - MindMeister 思维导图",
+            "icon": "https://logo.clearbit.com/www.mindmeister.com",
+            "url": "https://www.mindmeister.com/app/map/3121171949"
+          },
+          {
+            "type": "link",
+            "addDate": 1705647344009,
+            "title": "zyw-RabbitMQ Management",
+            "icon": "https://logo.clearbit.com/localhost",
+            "url": "http://localhost:15672/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706169472358,
+            "title": "Apifox",
+            "icon": "https://logo.clearbit.com/app.apifox.com",
+            "url": "https://app.apifox.com/main/teams/2294643?tab=project"
+          },
+          {
+            "type": "link",
+            "addDate": 1708419885333,
+            "title": "为 Pod 和容器管理资源 | Kubernetes",
+            "icon": "https://logo.clearbit.com/kubernetes.io",
+            "url": "https://kubernetes.io/zh-cn/docs/concepts/configuration/manage-resources-containers/"
+          },
+          {
+            "type": "link",
+            "addDate": 1711099514536,
+            "title": "Python Client API Reference — MinIO Object Storage for Linux",
+            "icon": "https://logo.clearbit.com/min.io",
+            "url": "https://min.io/docs/minio/linux/developers/python/API.html#get_object_tags"
+          },
+          {
+            "type": "link",
+            "addDate": 1711107940097,
+            "title": "录音文件识别 - 标贝智能语音开放平台",
+            "icon": "https://logo.clearbit.com/ai.data-baker.com",
+            "url": "https://ai.data-baker.com/#/asr/file"
+          },
+          {
+            "type": "link",
+            "addDate": 1711107943949,
+            "title": "标贝开发文档（语音技术） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/fqihrx37dhp.feishu.cn",
+            "url": "https://fqihrx37dhp.feishu.cn/docx/Nw45d16hCo05bUxbqp1cx970nkd"
+          },
+          {
+            "type": "link",
+            "addDate": 1714112580220,
+            "title": "Wiki- talkingfaceV3 Core 推理测试流程-BusinessPlatform-TAPD平台",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/59277042/markdown_wikis/show/#1159277042001008867"
+          },
+          {
+            "type": "link",
+            "addDate": 1715757111934,
+            "title": "Commercial TTS wiki",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/36812041/markdown_wikis/show/#1136812041001007812"
+          },
+          {
+            "type": "link",
+            "addDate": 1716950195161,
+            "title": "私有化",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/37010198/markdown_wikis/show/#1137010198001008826"
+          },
+          {
+            "type": "link",
+            "addDate": 1718196521120,
+            "title": "视频中为什么需要这么多的颜色空间？ | 17哥",
+            "icon": "https://logo.clearbit.com/wangwei1237.github.io",
+            "url": "https://wangwei1237.github.io/2022/08/14/Why-so-much-color-space-in-video/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718260676233,
+            "title": "郭昱东交接",
+            "icon": "https://logo.clearbit.com/www.tapd.cn",
+            "url": "https://www.tapd.cn/59277042/markdown_wikis/show/#1159277042001009132"
+          },
+          {
+            "type": "link",
+            "addDate": 1718262408151,
+            "title": "volc-training-status-code",
+            "icon": "https://logo.clearbit.com/www.volcengine.com",
+            "url": "https://www.volcengine.com/docs/6561/1167808#_4-%E7%8A%B6%E6%80%81%E7%A0%81"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1612421435502,
+        "title": "学习",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1657679383779,
+            "title": "c++",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1613981601853,
+                "title": "C++模版的本质_CSDN资讯-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/csdnnews/article/details/113931115"
+              },
+              {
+                "type": "link",
+                "addDate": 1614674583641,
+                "title": "c++中ifstream一次读取整个文件 - 小 楼 一 夜 听 春 雨 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/kex1n/p/4028428.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1616030582151,
+                "title": "C++-cin与scanf cout与printf效率问题_邱老师的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_41670516/article/details/79687848?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242"
+              },
+              {
+                "type": "link",
+                "addDate": 1620273430447,
+                "title": "C11线程管理：条件变量 - Memset - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/ChinaHook/p/7966936.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1626783253651,
+                "title": "使用C++ 11实现单例模式_Charleyx的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_15024587/article/details/86300941?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-9.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-9.control"
+              },
+              {
+                "type": "link",
+                "addDate": 1647928751807,
+                "title": "虚函数 - 维基百科，自由的百科全书",
+                "icon": "https://logo.clearbit.com/zh.wikipedia.org",
+                "url": "https://zh.wikipedia.org/wiki/%E8%99%9A%E5%87%BD%E6%95%B0"
+              },
+              {
+                "type": "link",
+                "addDate": 1612421306684,
+                "title": "25.C++- 泛型编程之函数模板(详解) - 诺谦 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/lifexy/p/8761325.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1652628090470,
+                "title": "(31条消息) C/C++ 最常见50道面试题_bostonAlen的博客-CSDN博客_c++面试题",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/BostonRayAlen/article/details/93041395?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-93041395-blog-117803483.pc_relevant_default&spm=1001.2101.3001.4242.1&utm_relevant_index=3"
+              },
+              {
+                "type": "link",
+                "addDate": 1652626778300,
+                "title": "(31条消息) C++面试题总结，一篇就够了_贪心的鬼的博客-CSDN博客_c++面试",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_44515978/article/details/117803483"
+              },
+              {
+                "type": "link",
+                "addDate": 1612402758355,
+                "title": "孔网搜索：泛型编程",
+                "icon": "https://logo.clearbit.com/search.kongfz.com",
+                "url": "http://search.kongfz.com/product_result/?key=%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B&status=0&_stpmt=eyJzZWFyY2hfdHlwZSI6ImFjdGl2ZSJ9"
+              },
+              {
+                "type": "link",
+                "addDate": 1640609184734,
+                "title": "图解快速排序（C++实现）_Magnum的博客-CSDN博客_c++快速排序",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_28584889/article/details/88136498"
+              },
+              {
+                "type": "link",
+                "addDate": 1640607800361,
+                "title": "三种工厂模式的C++实现_爱冒险的技术宅-CSDN博客_c++ 工厂模式",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/silangquan/article/details/20492293"
+              },
+              {
+                "type": "link",
+                "addDate": 1653356418453,
+                "title": "(31条消息) 实现二叉树 C语言版_小狗吠吠吠的博客-CSDN博客_建立二叉树的代码c语言",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/juggte/article/details/120238658"
+              },
+              {
+                "type": "link",
+                "addDate": 1652715627721,
+                "title": "(31条消息) 快速排序（c语言实现）_小管ye的博客-CSDN博客_快速排序c语言",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_61453872/article/details/121481223"
+              },
+              {
+                "type": "link",
+                "addDate": 1653661845802,
+                "title": "(31条消息) C语言丨快速排序法_Tkpluto的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_60921752/article/details/121727489"
+              },
+              {
+                "type": "link",
+                "addDate": 1677048382472,
+                "title": "C++ 中文周刊 | 每周更新c++相关信息",
+                "icon": "https://logo.clearbit.com/wanghenshui.github.io",
+                "url": "https://wanghenshui.github.io/cppweeklynews/"
+              },
+              {
+                "type": "link",
+                "addDate": 1685534396444,
+                "title": "C/C++ 的 Artifactory 社区版 — conan 2.0.6 文档",
+                "icon": "https://logo.clearbit.com/docs.conan.io",
+                "url": "https://docs.conan.io/2/tutorial/conan_repositories/setting_up_conan_remotes/artifactory/artifactory_ce_cpp.html#artifactory-ce-cpp"
+              },
+              {
+                "type": "link",
+                "addDate": 1683793785274,
+                "title": "1. 头文件 — Google 开源项目风格指南",
+                "icon": "https://logo.clearbit.com/zh-google-styleguide.readthedocs.io",
+                "url": "https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/headers/"
+              },
+              {
+                "type": "link",
+                "addDate": 1690260941846,
+                "title": "GoingNative 2013 C++ Seasoning - YouTube",
+                "icon": "https://logo.clearbit.com/www.youtube.com",
+                "url": "https://www.youtube.com/watch?v=W2tWOdzgXHA"
+              },
+              {
+                "type": "link",
+                "addDate": 1690260947966,
+                "title": "Better Code: Runtime Polymorphism - Sean Parent - YouTube",
+                "icon": "https://logo.clearbit.com/www.youtube.com",
+                "url": "https://www.youtube.com/watch?v=QGcVXgEVMJg"
+              },
+              {
+                "type": "link",
+                "addDate": 1690261069154,
+                "title": "CppCon 2018: R. Leahy “The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++” - YouTube",
+                "icon": "https://logo.clearbit.com/www.youtube.com",
+                "url": "https://www.youtube.com/watch?v=hdRpCo94_C4"
+              },
+              {
+                "type": "link",
+                "addDate": 1700448266835,
+                "title": "Learn Contemporary C++ | Concise&Visual Examples | hacking C++",
+                "icon": "https://logo.clearbit.com/hackingcpp.com",
+                "url": "https://hackingcpp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700448457075,
+                "title": "C++ Cheat Sheets & Infographics | hacking C++",
+                "icon": "https://logo.clearbit.com/hackingcpp.com",
+                "url": "https://hackingcpp.com/cpp/cheat_sheets.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1678868885764,
+                "title": "欢迎回到 C++ - 现代 C++ | Microsoft Learn",
+                "icon": "https://logo.clearbit.com/learn.microsoft.com",
+                "url": "https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"
+              },
+              {
+                "type": "link",
+                "addDate": 1699330285892,
+                "title": "语义化版本 2.0.0 | Semantic Versioning",
+                "icon": "https://logo.clearbit.com/semver.org",
+                "url": "https://semver.org/lang/zh-CN/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1657797616071,
+            "title": "sox",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1657797618986,
+                "title": "libsox库的使用问题 - SegmentFault 思否",
+                "icon": "https://logo.clearbit.com/segmentfault.com",
+                "url": "https://segmentfault.com/a/1190000038701374"
+              },
+              {
+                "type": "link",
+                "addDate": 1657796815406,
+                "title": "SoX",
+                "icon": "https://logo.clearbit.com/sox.sourceforge.net",
+                "url": "http://sox.sourceforge.net/sox.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1657683976485,
+                "title": "SoX - Sound eXchange | HomePage",
+                "icon": "https://logo.clearbit.com/sox.sourceforge.net",
+                "url": "http://sox.sourceforge.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657684274356,
+                "title": "SoX",
+                "icon": "https://logo.clearbit.com/sox.sourceforge.net",
+                "url": "http://sox.sourceforge.net/libsox.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1657797902301,
+                "title": "SoX使用手册（中文版）_p222p的博客-CSDN博客_sox 参数",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/p222p/article/details/77624046"
+              },
+              {
+                "type": "link",
+                "addDate": 1657798336270,
+                "title": "Posts containing 'libsox' - Stack Overflow",
+                "icon": "https://logo.clearbit.com/stackoverflow.com",
+                "url": "https://stackoverflow.com/search?q=libsox&s=4f594696-434e-4b05-b91c-b9bc632fa597"
+              },
+              {
+                "type": "link",
+                "addDate": 1703234173700,
+                "title": "Using SOX",
+                "icon": "https://logo.clearbit.com/billposer.org",
+                "url": "https://billposer.org/Linguistics/Computation/SoxTutorial.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1703234268708,
+                "title": "SoX — 音频处理工具里的瑞士军刀 - 简书",
+                "icon": "https://logo.clearbit.com/www.jianshu.com",
+                "url": "https://www.jianshu.com/p/be8977de4a6b"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122420236,
+            "title": "os",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1649754996023,
+                "title": "linux之性能分析工具top - BUG弄潮儿 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/happyhuangjinjin/p/15995498.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1648886750544,
+                "title": "Linux网络编程四、UDP，广播和组播 - qetuo[ - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/qiu00/p/11755909.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1648870372333,
+                "title": "Linux C编程 socket——Udp组播（多播）_嵌入式-沉默的博客-CSDN博客_c++ socket组播",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_43790540/article/details/104244546?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=2"
+              },
+              {
+                "type": "link",
+                "addDate": 1648870249663,
+                "title": "Linux C：简单udp组播，服务器端代码实现_凝视阳光、的博客-CSDN博客_udp组播实现代码",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_40861091/article/details/88790465"
+              },
+              {
+                "type": "link",
+                "addDate": 1638951039060,
+                "title": "Bash 简介 - Bash 脚本教程 - 网道",
+                "icon": "https://logo.clearbit.com/wangdoc.com",
+                "url": "https://wangdoc.com/bash/intro.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1622185929106,
+                "title": "ubuntu重启、关机命令 - jiu~ - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/jiu0821/p/8420672.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1622112190106,
+                "title": "ubuntu-server-18.04 设置开机启动脚本 - defifind - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/defifind/p/9285456.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1621389706566,
+                "title": "【Linux】如何查找命令及历史记录history - 渐若窥宏大 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/liuawen/p/12854041.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1617678672102,
+                "title": "Linux 线程池的概念与实现_WhiteShirtI的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_44443986/article/details/115441456"
+              },
+              {
+                "type": "link",
+                "addDate": 1617102346999,
+                "title": "VS内存泄漏工具Visual Leak Detector2.5.1安装与使用_chaibubble-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/chaipp0607/article/details/79182471"
+              },
+              {
+                "type": "link",
+                "addDate": 1611035793032,
+                "title": "公钥与私钥 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/31477508?from_voters_page=true"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122435063,
+            "title": "blog",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1640089619473,
+                "title": "首页 - 廖雪峰的官方网站",
+                "icon": "https://logo.clearbit.com/www.liaoxuefeng.com",
+                "url": "https://www.liaoxuefeng.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1656943421734,
+                "title": "Git教程 - 廖雪峰的官方网站",
+                "icon": "https://logo.clearbit.com/www.liaoxuefeng.com",
+                "url": "https://www.liaoxuefeng.com/wiki/896043488029600"
+              },
+              {
+                "type": "link",
+                "addDate": 1657789203611,
+                "title": "安装Python - 廖雪峰的官方网站",
+                "icon": "https://logo.clearbit.com/www.liaoxuefeng.com",
+                "url": "https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122459664,
+            "title": "流媒体",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1653208697912,
+                "title": "音视频常见面试题 - 百度文库",
+                "icon": "https://logo.clearbit.com/wenku.baidu.com",
+                "url": "https://wenku.baidu.com/view/4c40e51532126edb6f1aff00bed5b9f3f90f723e.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1626690729200,
+                "title": "SRT协议详解一测试_相见不如怀念-CSDN博客_srt协议详解",
+                "icon": "https://logo.clearbit.com/willarun365.blog.csdn.net",
+                "url": "https://willarun365.blog.csdn.net/article/details/106265192"
+              },
+              {
+                "type": "link",
+                "addDate": 1626690884536,
+                "title": "SRT协议详解一测试_相见不如怀念-CSDN博客_srt协议详解",
+                "icon": "https://logo.clearbit.com/willarun365.blog.csdn.net",
+                "url": "https://willarun365.blog.csdn.net/article/details/106265192#t1"
+              },
+              {
+                "type": "link",
+                "addDate": 1626264188534,
+                "title": "音视频 RED 与 FEC 的 RTP 格式封装_老雍的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/yongkai0214/article/details/88534220#t7"
+              },
+              {
+                "type": "link",
+                "addDate": 1618564132199,
+                "title": "GB28181国标流媒体服务中设备状态查询步骤及信令示例_Marvin1311的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Marvin1311/article/details/98845764"
+              },
+              {
+                "type": "link",
+                "addDate": 1613634308199,
+                "title": "SIP 协议详解 - xiaxveliang - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/xiaxveliang/p/12434170.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1672728646556,
+                "title": "使用ffmpeg推流rtmp_都市无名者的博客-CSDN博客_ffmpeg推流rtmp",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/u011153259/article/details/127264069"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122486600,
+            "title": "github",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1649645147207,
+                "title": "How can I download a file with cpp-httplib · Issue #923 · yhirose/cpp-httplib",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/yhirose/cpp-httplib/issues/923"
+              },
+              {
+                "type": "link",
+                "addDate": 1640759437746,
+                "title": "mpv.io",
+                "icon": "https://logo.clearbit.com/mpv.io",
+                "url": "https://mpv.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1639124769059,
+                "title": "simdjson/basics.md at master · simdjson/simdjson",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/simdjson/simdjson/blob/master/doc/basics.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1624875561988,
+                "title": "github----向开源框架提交pr的过程_vim_wj的博客-CSDN博客_github提交pr",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/vim_wj/article/details/78300239"
+              },
+              {
+                "type": "link",
+                "addDate": 1624413347755,
+                "title": "Home · ZLMediaKit/ZLMediaKit Wiki",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ZLMediaKit/ZLMediaKit/wiki"
+              },
+              {
+                "type": "link",
+                "addDate": 1622681608834,
+                "title": "3. Custom formatting · gabime/spdlog Wiki",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/gabime/spdlog/wiki/3.-Custom-formatting"
+              },
+              {
+                "type": "link",
+                "addDate": 1620636620379,
+                "title": "ireader/media-server: RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ireader/media-server"
+              },
+              {
+                "type": "link",
+                "addDate": 1619320495589,
+                "title": "【吐血整理】强烈推荐 GitHub 上值得学习的开源实战项目(持续更新中，万字长文建议收藏) - SegmentFault 思否",
+                "icon": "https://logo.clearbit.com/segmentfault.com",
+                "url": "https://segmentfault.com/a/1190000021340649"
+              },
+              {
+                "type": "link",
+                "addDate": 1619144426972,
+                "title": "Release Protocol Buffers v2.6.1 · protocolbuffers/protobuf",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/protocolbuffers/protobuf/releases/tag/v2.6.1"
+              },
+              {
+                "type": "link",
+                "addDate": 1661165499233,
+                "title": "rapidjson库的基本使用_奋斗-少年的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq849635649/article/details/52678822"
+              },
+              {
+                "type": "link",
+                "addDate": 1657261256548,
+                "title": "Git 教程 | 菜鸟教程",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/git/git-tutorial.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122552352,
+            "title": "protocol",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1621997899238,
+                "title": "(9条消息) 18 张图彻底弄懂 HTTPS 的原理！_CSDN资讯-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/csdnnews/article/details/110848608"
+              },
+              {
+                "type": "link",
+                "addDate": 1619142595457,
+                "title": "linux下使用protobuf实现简单配置功能_flyan338的专栏-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/flyan338/article/details/8448518"
+              },
+              {
+                "type": "link",
+                "addDate": 1619142055247,
+                "title": "将protobuf数据读写入文件_giantmfc123-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/mafucun1988/article/details/84315101?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1332036.7602.16191420288941043&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control"
+              },
+              {
+                "type": "link",
+                "addDate": 1611038130907,
+                "title": "【转】手把手教你实现自定义的应用层协议 - 立志做一个好的程序员 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/oxspirt/p/10219253.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1672384918765,
+                "title": "异步 API 教程 | C++ | gRPC",
+                "icon": "https://logo.clearbit.com/grpc.io",
+                "url": "https://grpc.io/docs/languages/cpp/async/"
+              },
+              {
+                "type": "link",
+                "addDate": 1676374875348,
+                "title": "grpc使用记录(三)简单异步服务实例 - 乌合之众 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/oloroso/p/11345266.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1685426690714,
+                "title": "Status codes and their use in gRPC",
+                "icon": "https://logo.clearbit.com/chromium.googlesource.com",
+                "url": "https://chromium.googlesource.com/external/github.com/grpc/grpc/+/refs/tags/v1.21.4-pre1/doc/statuscodes.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1658291078307,
+                "title": "gRPC 官方文档中文版_V1.0",
+                "icon": "https://logo.clearbit.com/doc.oschina.net",
+                "url": "https://doc.oschina.net/grpc"
+              },
+              {
+                "type": "link",
+                "addDate": 1703840352065,
+                "title": "grpc/doc/environment_variables.md at master · grpc/grpc",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/grpc/grpc/blob/master/doc/environment_variables.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1704266107243,
+                "title": "GRPC Core: Status codes and their use in gRPC",
+                "icon": "https://logo.clearbit.com/grpc.github.io",
+                "url": "https://grpc.github.io/grpc/core/md_doc_statuscodes.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122655112,
+            "title": "编译",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1657276756479,
+                "title": "bazel学习总结（一）_成成赐我力量的博客-CSDN博客_bazel",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_28581077/article/details/104141323"
+              },
+              {
+                "type": "link",
+                "addDate": 1657508181083,
+                "title": "Bazel 教程：构建 C++ 项目",
+                "icon": "https://logo.clearbit.com/bazel.build",
+                "url": "https://bazel.build/tutorials/cpp"
+              },
+              {
+                "type": "link",
+                "addDate": 1672909749153,
+                "title": "git 代码库规则  |  Bazel",
+                "icon": "https://logo.clearbit.com/bazel.build",
+                "url": "https://bazel.build/rules/lib/repo/git"
+              },
+              {
+                "type": "link",
+                "addDate": 1680489694181,
+                "title": "第11章 打包项目 - 11.1 生成源代码和二进制包 - 《CMake菜谱（CMake Cookbook中文版）》 - 书栈网 · BookStack",
+                "icon": "https://logo.clearbit.com/www.bookstack.cn",
+                "url": "https://www.bookstack.cn/read/CMake-Cookbook/content-chapter11-11.1-chinese.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1682303752331,
+                "title": "Step 1: A Basic Starting Point — CMake 3.26.3 Documentation",
+                "icon": "https://logo.clearbit.com/cmake.org",
+                "url": "https://cmake.org/cmake/help/latest/guide/tutorial/A%20Basic%20Starting%20Point.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1682304895484,
+                "title": "cmake使用教程（一）-起步 - 掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/post/6844903557183832078"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660122665861,
+            "title": "papers",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1648190630203,
+                "title": "Cpp-Taskflow: Fast Task-Based Parallel Programming Using Modern C++ | IEEE Conference Publication | IEEE Xplore",
+                "icon": "https://logo.clearbit.com/ieeexplore.ieee.org",
+                "url": "https://ieeexplore.ieee.org/document/8821011/authors#authors"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1660126139207,
+            "title": "kafka cpp",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1660126141987,
+                "title": "kafka C++使用 - 简书",
+                "icon": "https://logo.clearbit.com/www.jianshu.com",
+                "url": "https://www.jianshu.com/p/0a0d566c7773"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1657615706487,
+            "title": "语音深度学习",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1657615929189,
+                "title": "语音合成——声学模型概述_一个热爱学习的深度渣渣的博客-CSDN博客_声学模型",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_40620310/article/details/119882893"
+              },
+              {
+                "type": "link",
+                "addDate": 1657616670193,
+                "title": "语音合成概述_Jackson王的博客-CSDN博客_语音合成",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/wy19961103/article/details/103944553?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-103944553.142^v32^pc_rank_34,185^v2^control"
+              },
+              {
+                "type": "link",
+                "addDate": 1657617063900,
+                "title": "Tacotron: Towards End-to-End Speech Synthesis_林林宋的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_40168949/article/details/87869240"
+              },
+              {
+                "type": "link",
+                "addDate": 1657617308367,
+                "title": "[论文笔记] TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS_ASR_THU的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/zongza/article/details/85627914?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-85627914-blog-87869240.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-85627914-blog-87869240.pc_relevant_default&utm_relevant_index=6"
+              },
+              {
+                "type": "link",
+                "addDate": 1657617631131,
+                "title": "语音合成vocoder（一） 概况_xmdxcsj的博客-CSDN博客_vocoder",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/xmdxcsj/article/details/72419803?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165761529616781683919825%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165761529616781683919825&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-5-72419803-null-null.142^v32^pc_rank_34,185^v2^control&utm_term=%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90"
+              },
+              {
+                "type": "link",
+                "addDate": 1657618193648,
+                "title": "TTS实现过程（大白话）_代码小鬼才的博客-CSDN博客_tts实现",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_34171593/article/details/123119808"
+              },
+              {
+                "type": "link",
+                "addDate": 1657618939500,
+                "title": "语音合成TTS（Text-To-Speech，从文本到语音）_光影流年925的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/ZLJ925/article/details/79125490"
+              },
+              {
+                "type": "link",
+                "addDate": 1657619161266,
+                "title": "如何评价谷歌下一代语音合成系统WaveNet？ - 知乎",
+                "icon": "https://logo.clearbit.com/www.zhihu.com",
+                "url": "https://www.zhihu.com/question/50509644/answer/167870206"
+              },
+              {
+                "type": "link",
+                "addDate": 1657619542196,
+                "title": "语音合成TTS主要模型分析_宁缺100的博客-CSDN博客_tts模型",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_24434491/article/details/123460354?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8-123460354-blog-117716442.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-8-123460354-blog-117716442.pc_relevant_aa&utm_relevant_index=17"
+              },
+              {
+                "type": "link",
+                "addDate": 1657619564265,
+                "title": "Pytorch深入细节学习_Deep_bluce的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/deep_bluce/category_10678829.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1657619895960,
+                "title": "卷积神经网络超详细介绍_呆呆的猫的博客-CSDN博客_卷积神经网络",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/jiaoyangwm/article/details/80011656/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657620562110,
+                "title": "torch.nn.functional · PyTorch中文文档 · 看云",
+                "icon": "https://logo.clearbit.com/www.kancloud.cn",
+                "url": "https://www.kancloud.cn/luponu/pytorch/872201"
+              },
+              {
+                "type": "link",
+                "addDate": 1657678839354,
+                "title": "细读经典：HiFiGAN，拥有多尺度和多周期判别器的高效声码器 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/406341310"
+              },
+              {
+                "type": "link",
+                "addDate": 1657678992286,
+                "title": "细读经典：Non-Attentive Tacotron(NAT)，利用时长建模和高斯上采样取代注意力机制的语音合成系统 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/396137033"
+              },
+              {
+                "type": "link",
+                "addDate": 1657679177046,
+                "title": "TTS Weekly - 知乎",
+                "icon": "https://logo.clearbit.com/www.zhihu.com",
+                "url": "https://www.zhihu.com/column/c_1072167941490913280"
+              },
+              {
+                "type": "link",
+                "addDate": 1657679786009,
+                "title": "语音之家 Speech Home-助力AI语音开发者的社区",
+                "icon": "https://logo.clearbit.com/www.speechhome.com",
+                "url": "http://www.speechhome.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657683360434,
+                "title": "使用 Sound eXchange (SoX) 操作音频文件的15个超棒示例-云社区-华为云",
+                "icon": "https://logo.clearbit.com/bbs.huaweicloud.com",
+                "url": "https://bbs.huaweicloud.com/blogs/314958"
+              },
+              {
+                "type": "link",
+                "addDate": 1657690870383,
+                "title": "Tacotron以及Tacotron2详解_不卷CV了的博客-CSDN博客_tacotron",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/junbaba_/article/details/118357486"
+              },
+              {
+                "type": "link",
+                "addDate": 1657692047096,
+                "title": "Sox音频处理简介_愤怒敲代码的小强的博客-CSDN博客_sox音频处理",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_45605854/article/details/120346632"
+              },
+              {
+                "type": "link",
+                "addDate": 1657693032177,
+                "title": "NumPy 教程 | 菜鸟教程",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/numpy/numpy-tutorial.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1657776796934,
+                "title": "模型量化详解_技术挖掘者的博客-CSDN博客_模型量化",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/WZZ18191171661/article/details/103332338/"
+              },
+              {
+                "type": "link",
+                "addDate": 1657778347451,
+                "title": "2022年了，PyTorch和TensorFlow你选哪个？_菜鸟学Python的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/cainiao_python/article/details/122053331"
+              },
+              {
+                "type": "link",
+                "addDate": 1657879992285,
+                "title": "GAN万字长文综述 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/58812258"
+              },
+              {
+                "type": "link",
+                "addDate": 1658923182085,
+                "title": "文本转语音通过语音合成标记语言（SSML）改进合成 知识点详解（1）_S 占占的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_43529569/article/details/121711565"
+              },
+              {
+                "type": "link",
+                "addDate": 1659081847248,
+                "title": "[2010.04301] Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling",
+                "icon": "https://logo.clearbit.com/arxiv.org",
+                "url": "https://arxiv.org/abs/2010.04301"
+              },
+              {
+                "type": "link",
+                "addDate": 1659082549974,
+                "title": "[2010.04301v4] Non-Attentive Tacotron: Robust and Controllable Neural TTS Synthesis Including Unsupervised Duration Modeling",
+                "icon": "https://logo.clearbit.com/arxiv.org",
+                "url": "https://arxiv.org/abs/2010.04301v4"
+              },
+              {
+                "type": "link",
+                "addDate": 1660017005498,
+                "title": "2021年最完整的人工智能入门指南_MoModel的博客-CSDN博客_人工智能教程",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_44015907/article/details/120700692?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166001652816781667812314%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166001652816781667812314&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-120700692-null-null.142^v39^pc_rank_v37,185^v2^control&utm_term=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1673414777822,
+                "title": "NumCpp: Main Page",
+                "icon": "https://logo.clearbit.com/dpilger26.github.io",
+                "url": "https://dpilger26.github.io/NumCpp/doxygen/html/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1673577152377,
+                "title": "NumCpp: nc Namespace Reference",
+                "icon": "https://logo.clearbit.com/dpilger26.github.io",
+                "url": "https://dpilger26.github.io/NumCpp/doxygen/html/namespacenc.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1682248735344,
+                "title": "利用OpenCV DNN模块进行深度学习：一个最好使用指导书_readnetfromtorch_卓晴的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/zhuoqingjoking97298/article/details/122763074"
+              },
+              {
+                "type": "link",
+                "addDate": 1693216389845,
+                "title": "语音合成基础(8)——傅里叶变换性质、卷积定理、随机信号 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/589167930"
+              },
+              {
+                "type": "link",
+                "addDate": 1693215094278,
+                "title": "THUHCSI",
+                "icon": "https://logo.clearbit.com/thuhcsi.github.io",
+                "url": "https://thuhcsi.github.io/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1697024697110,
+            "title": "soft",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1697024673881,
+                "title": "2023年软件设计师学习路线 - 哔哩哔哩",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/read/cv18526892/?spm_id_from=333.999.0.0"
+              },
+              {
+                "type": "link",
+                "addDate": 1698311326566,
+                "title": "软件设计师-从小白到大牛_-dzk-的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/dzk666123/category_12385107.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1698311382641,
+                "title": "软考_软件设计师（中级）_Jeankyw的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Jeankyw/article/details/131890436"
+              },
+              {
+                "type": "link",
+                "addDate": 1698311606949,
+                "title": "软件设计师の备考经验帖及复习资料_状态模型_Laptoy的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/apple_53947466/article/details/128332032"
+              },
+              {
+                "type": "link",
+                "addDate": 1698312094822,
+                "title": "软件设计师冲刺：临考快速记忆_软件设计师记忆口诀_Laptoy的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/apple_53947466/article/details/127676551"
+              },
+              {
+                "type": "link",
+                "addDate": 1683814940377,
+                "title": "15.9 UML案例分析2_哔哩哔哩_bilibili",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/video/BV1iX4y1R7vt?p=182&spm_id_from=pageDriver&vd_source=c28ea0c1795f5d5a8337c8e69e3d15df"
+              },
+              {
+                "type": "link",
+                "addDate": 1616394560323,
+                "title": "人事考试服务频道",
+                "icon": "https://logo.clearbit.com/rsj.beijing.gov.cn",
+                "url": "http://rsj.beijing.gov.cn/ywsite/bjpta/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720428514463,
+                "title": "中国计算机技术职业资格网",
+                "icon": "https://logo.clearbit.com/www.ruankao.org.cn",
+                "url": "https://www.ruankao.org.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524589237,
+            "title": "linux",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1661737958917,
+                "title": "VIM中字符串的替换_Wang20122013的博客-CSDN博客_vim 替换",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Wang20122013/article/details/123897210"
+              },
+              {
+                "type": "link",
+                "addDate": 1662120905164,
+                "title": "Shell - 通过参数名传递参数值_孤独的侠客的博客-CSDN博客_shell 参数名",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/chenyunqiang/article/details/104310007/"
+              },
+              {
+                "type": "link",
+                "addDate": 1662093416742,
+                "title": "Docker：将docker容器保存为docker镜像（打成tar包）_烟雨天青色的博客-CSDN博客_docker 容器保存为镜像",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_38603541/article/details/121286992"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524716192,
+            "title": "math",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1689218489253,
+                "title": "动态时间规整（DTW）算法简介 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/43247215"
+              },
+              {
+                "type": "link",
+                "addDate": 1689147084053,
+                "title": "深入浅出的讲解傅里叶变换（真正的通俗易懂）_后脑勺的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/l494926429/article/details/51818012?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168914356016800185898402%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168914356016800185898402&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-51818012-null-null.142^v88^insert_down28v1,239^v2^insert_chatgpt&utm_term=%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1689230521787,
+                "title": "动态时间规整算法: 从DTW到FastDTW_KPer_Yang的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/KPer_Yang/article/details/126678842"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524819835,
+            "title": "python",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1699584972801,
+                "title": "Scrapy爬虫框架教程（三）-- 调试(Debugging)Spiders | WoodenRobot's Blog",
+                "icon": "https://logo.clearbit.com/woodenrobot.me",
+                "url": "https://woodenrobot.me/2017/02/12/Scrapy%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89-%E8%B0%83%E8%AF%95-Debugging-Spiders/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1702524933956,
+            "title": "NEXT",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1698742007945,
+                "title": "15分钟的英语音标课 | 英语兔",
+                "icon": "https://logo.clearbit.com/www.yingyutu.com",
+                "url": "https://www.yingyutu.com/15-min"
+              },
+              {
+                "type": "link",
+                "addDate": 1692783093688,
+                "title": "Hello 算法",
+                "icon": "https://logo.clearbit.com/www.hello-algo.com",
+                "url": "https://www.hello-algo.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1675910831416,
+                "title": "有没有人一起从零开始刷力扣 - 力扣（LeetCode）",
+                "icon": "https://logo.clearbit.com/leetcode.cn",
+                "url": "https://leetcode.cn/circle/article/48kq9d/"
+              },
+              {
+                "type": "link",
+                "addDate": 1704438381659,
+                "title": "《动手学深度学习》 — 动手学深度学习 2.0.0 documentation",
+                "icon": "https://logo.clearbit.com/zh.d2l.ai",
+                "url": "https://zh.d2l.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720075303315,
+                "title": "加入我们 - 中路高科交通科技集团有限公司",
+                "icon": "https://logo.clearbit.com/www.hstg.com.cn",
+                "url": "https://www.hstg.com.cn/html/menu/13.html"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1689576445528,
+            "title": "wavesurfer.js | audio waveform player JavaScript library",
+            "icon": "https://logo.clearbit.com/wavesurfer-js.org",
+            "url": "https://wavesurfer-js.org/examples/#zoom.js"
+          },
+          {
+            "type": "link",
+            "addDate": 1711464964511,
+            "title": "GitHub - xiaomabenten/software_designer: 💯2024年 软件设计师 （软考中级）备考资源库+配套免费刷题软件。https://ruankaodaren.com",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/xiaomabenten/software_designer"
+          },
+          {
+            "type": "link",
+            "addDate": 1712116343101,
+            "title": "C++ Developer Roadmap",
+            "icon": "https://logo.clearbit.com/roadmap.sh",
+            "url": "https://roadmap.sh/cpp"
+          },
+          {
+            "type": "link",
+            "addDate": 1712132993106,
+            "title": "科学空间|Scientific Spaces",
+            "icon": "https://logo.clearbit.com/kexue.fm",
+            "url": "https://kexue.fm/"
+          },
+          {
+            "type": "link",
+            "addDate": 1713493219260,
+            "title": "ffmpeg-libav-tutorial/README-cn.md at master · leandromoreira/ffmpeg-libav-tutorial",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/leandromoreira/ffmpeg-libav-tutorial/blob/master/README-cn.md"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1722849048815,
+        "title": "Pintree-Bookmarks",
+        "icon": "https://logo.clearbit.com/hctym1995.github.io",
+        "url": "https://hctym1995.github.io/pintree/"
+      },
+      {
+        "type": "link",
+        "addDate": 1665556239469,
+        "title": "Google 翻译",
+        "icon": "https://logo.clearbit.com/translate.google.com.hk",
+        "url": "https://translate.google.com.hk/?hl=zh-CN&sourceid=cnhp"
+      },
+      {
+        "type": "link",
+        "addDate": 1721202370395,
+        "title": "Finance_text_generation - Repos",
+        "icon": "https://logo.clearbit.com/dev.azure.com",
+        "url": "https://dev.azure.com/xiaobingai/XiaoiceAic/_git/Finance_text_generation"
+      },
+      {
+        "type": "link",
+        "addDate": 1690530723355,
+        "title": "Voice - Repos",
+        "icon": "https://logo.clearbit.com/dev.azure.com",
+        "url": "https://dev.azure.com/xiaobingai/AICreation/_git/Voice"
+      },
+      {
+        "type": "link",
+        "addDate": 1698896367131,
+        "title": "Pipelines - Runs for Voice-lyrebird-engine-v2-backend-cplus",
+        "icon": "https://logo.clearbit.com/dev.azure.com",
+        "url": "https://dev.azure.com/xiaobingai/AICreation/_build?definitionId=773"
+      },
+      {
+        "type": "link",
+        "addDate": 1708918968564,
+        "title": "C++ 参考手册",
+        "icon": "https://logo.clearbit.com/cpp.7fa4.cn",
+        "url": "http://cpp.7fa4.cn/zh/cpp.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1677063537697,
+        "title": "cppreference.com",
+        "icon": "https://logo.clearbit.com/en.cppreference.com",
+        "url": "https://en.cppreference.com/w/"
+      },
+      {
+        "type": "link",
+        "addDate": 1695381157252,
+        "title": "高德地图",
+        "icon": "https://logo.clearbit.com/www.amap.com",
+        "url": "https://www.amap.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1701743545816,
+        "title": "Oxford Learner's Dictionaries | Find definitions, translations, and grammar explanations at Oxford Learner's Dictionaries",
+        "icon": "https://logo.clearbit.com/www.oxfordlearnersdictionaries.com",
+        "url": "https://www.oxfordlearnersdictionaries.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1701940703029,
+        "title": "项目 · GitLab",
+        "icon": "https://logo.clearbit.com/59.110.165.173",
+        "url": "http://59.110.165.173:9980/dashboard/projects"
+      },
+      {
+        "type": "link",
+        "addDate": 1702524037735,
+        "title": "HelloGitHub｜Git 的奇技淫巧🙈",
+        "icon": "https://logo.clearbit.com/hellogithub.com",
+        "url": "https://hellogithub.com/article/9aed28d4d64b4649bb364685ef557ae4"
+      },
+      {
+        "type": "link",
+        "addDate": 1722505987343,
+        "title": "Gemini",
+        "icon": "https://logo.clearbit.com/gemini.google.com",
+        "url": "https://gemini.google.com/app/d1f941a8eea49f62"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1688367973209,
+    "title": "其他书签",
+    "children": []
+  },
+  {
+    "type": "folder",
+    "addDate": 1688367973209,
+    "title": "移动设备书签",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1698067499436,
+        "title": "Noodlemagazine | The best search engine of HD videos",
+        "icon": "https://logo.clearbit.com/noodlemagazine.com",
+        "url": "https://noodlemagazine.com/new-video"
+      },
+      {
+        "type": "link",
+        "addDate": 1698067525399,
+        "title": "打开新的标签页",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/chat"
+      },
+      {
+        "type": "link",
+        "addDate": 1698945042248,
+        "title": "仄言游戏分享 - Shoplnk",
+        "icon": "https://logo.clearbit.com/shoplnk.me",
+        "url": "https://shoplnk.me/2126992308?_tab=1#tab-1"
+      },
+      {
+        "type": "link",
+        "addDate": 1709711286630,
+        "title": "RabbitMQ 教程 - 工作队列 | RabbitMQ 教程 RabbitMQ",
+        "icon": "https://logo.clearbit.com/www.rabbitmq.com",
+        "url": "https://www.rabbitmq.com/tutorials/tutorial-two-python"
+      },
+      {
+        "type": "link",
+        "addDate": 1713373246920,
+        "title": "Manwa防走失 | Trello",
+        "icon": "https://logo.clearbit.com/trello.com",
+        "url": "https://trello.com/b/NacDoP5n/manwa"
+      },
+      {
+        "type": "link",
+        "addDate": 1718466716876,
+        "title": "Google",
+        "icon": "https://logo.clearbit.com/www.google.com.hk",
+        "url": "https://www.google.com.hk/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718466922703,
+        "title": "番号搜索 - 毒奶博主的万能搜索引擎。",
+        "icon": "https://logo.clearbit.com/limbopro.com",
+        "url": "https://limbopro.com/btsearch.html#gsc.tab=0"
+      }
+    ]
+  }
+]
